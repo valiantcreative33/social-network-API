@@ -1,24 +1,17 @@
 {
-  "name": "social-network-api",
+  "name": "18-nosql",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node start"
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/valiantcreative33/social-network-API.git"
-  },
+  "keywords": [],
   "author": "Ruben Matamoros",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/valiantcreative33/social-network-API/issues"
-  },
-  "homepage": "https://github.com/valiantcreative33/social-network-API#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.11.19"
+    "mongoose": "^5.11.15"
   }
 }
