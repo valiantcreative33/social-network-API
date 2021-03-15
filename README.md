@@ -10,7 +10,7 @@ This is a Social Network API application built with Express.js, MongoDB, and Mon
 * [Usage](#Usage)
    * [Video Demo](#Video-Demo)
 * [License](#License)
-* [Website Screenshot](#Website-Screenshot)
+* [Application Screenshot](#Application-Screenshot)
 * [Contribution](#Contribution)
 
 ## Installation
@@ -21,6 +21,7 @@ Clone this repository. Using the command line, navigate to the root of the appli
 * Express
 * MongoDB
 * Mongoose
+* JavaScript
 
 ## Usage
 In the command line, run `npm start` to initiate the server.  
@@ -32,7 +33,7 @@ A video demonstration of the API routes can be found on my [Youtube](https://www
 ## License
 This application is under the [ISC](https://opensource.org/licenses/ISC) license.
 
-## Website Screenshot
+## Application Screenshot
 ![Screenshot of the Tech Blog website](./assets/screenshot.png)
 
 ## Contribution
